@@ -1,0 +1,8002 @@
+[
+  {
+    "traditional": "爸爸",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "bàba",
+    "english": "dad",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "媽媽",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "māma",
+    "english": "mom",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "哥哥",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "gēge",
+    "english": "older brother",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "姐姐",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "jiějie",
+    "english": "older sister",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "弟弟",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "dìdi",
+    "english": "younger brother",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "妹妹",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "mèimei",
+    "english": "younger sister",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "老師",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "lǎoshī",
+    "english": "teacher",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "同學",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "tóngxué",
+    "english": "classmate",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "朋友",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "péngyǒu",
+    "english": "friend",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "同事",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "tóngshì",
+    "english": "coworker",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "學生",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "xuéshēng",
+    "english": "student",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "人",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "rén",
+    "english": "person",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "男人",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "nánrén",
+    "english": "man",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "女人",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "nǚrén",
+    "english": "woman",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "小孩",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "xiǎohái",
+    "english": "child",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "家",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "jiā",
+    "english": "home",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "房子",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "fángzi",
+    "english": "house",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "房間",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "fángjiān",
+    "english": "room",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "廚房",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "chúfáng",
+    "english": "kitchen",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "客廳",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "kètīng",
+    "english": "living room",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "廁所",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "cèsuǒ",
+    "english": "toilet",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "書房",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "shūfáng",
+    "english": "study room",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "床",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "chuáng",
+    "english": "bed",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "桌子",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "zhuōzi",
+    "english": "table",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "椅子",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "yǐzi",
+    "english": "chair",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "電腦",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "diànnǎo",
+    "english": "computer",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "手機",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "shǒujī",
+    "english": "cellphone",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "電視",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "diànshì",
+    "english": "TV",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "冰箱",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "bīngxiāng",
+    "english": "refrigerator",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "洗衣機",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "xǐyījī",
+    "english": "washing machine",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "水",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "shuǐ",
+    "english": "water",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "飯",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "fàn",
+    "english": "meal",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "麵",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "miàn",
+    "english": "noodles",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "肉",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "ròu",
+    "english": "meat",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "菜",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "cài",
+    "english": "vegetables",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "水果",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "shuǐguǒ",
+    "english": "fruit",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "早餐",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "zǎocān",
+    "english": "breakfast",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "午餐",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "wǔcān",
+    "english": "lunch",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "晚餐",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "wǎncān",
+    "english": "dinner",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "茶",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "chá",
+    "english": "tea",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "牛奶",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "niúnǎi",
+    "english": "milk",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "咖啡",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "kāfēi",
+    "english": "coffee",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "蛋",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "dàn",
+    "english": "egg",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "湯",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "tāng",
+    "english": "soup",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "魚",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "yú",
+    "english": "fish",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "飯店",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "fàndiàn",
+    "english": "hotel",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "餐廳",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "cāntīng",
+    "english": "restaurant",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "商店",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "shāngdiàn",
+    "english": "shop",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "超市",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "chāoshì",
+    "english": "supermarket",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "市場",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "shìchǎng",
+    "english": "market",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "工作",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "gōngzuò",
+    "english": "job",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "公司",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "gōngsī",
+    "english": "company",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "辦公室",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "bàngōngshì",
+    "english": "office",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "銀行",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "yínháng",
+    "english": "bank",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "郵局",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "yóujú",
+    "english": "post office",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "醫院",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "yīyuàn",
+    "english": "hospital",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "公園",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "gōngyuán",
+    "english": "park",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "學校",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "xuéxiào",
+    "english": "school",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "大學",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "dàxué",
+    "english": "university",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "教室",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "jiàoshì",
+    "english": "classroom",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "書",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "shū",
+    "english": "book",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "筆",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "bǐ",
+    "english": "pen",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "圖書館",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "túshūguǎn",
+    "english": "library",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "車",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "chē",
+    "english": "vehicle",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "公車",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "gōngchē",
+    "english": "bus",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "火車",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "huǒchē",
+    "english": "train",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "飛機",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "fēijī",
+    "english": "airplane",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "單車",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "dānchē",
+    "english": "bicycle",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "計程車",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "jìchéngchē",
+    "english": "taxi",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "捷運",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "jiéyùn",
+    "english": "subway",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "身體",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "shēntǐ",
+    "english": "body",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "頭",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "tóu",
+    "english": "head",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "手",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "shǒu",
+    "english": "hand",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "腳",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "jiǎo",
+    "english": "foot",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "眼睛",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "yǎnjīng",
+    "english": "eyes",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "耳朵",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "ěrduo",
+    "english": "ear",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "鼻子",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "bízi",
+    "english": "nose",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "嘴巴",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "zuǐbā",
+    "english": "mouth",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "課",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "kè",
+    "english": "class",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "問題",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "wèntí",
+    "english": "question",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "答案",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "dá’àn",
+    "english": "answer",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "中文",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "Zhōngwén",
+    "english": "Chinese",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "英文",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "Yīngwén",
+    "english": "English",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "數學",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "shùxué",
+    "english": "math",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "今天",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "jīntiān",
+    "english": "today",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "明天",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "míngtiān",
+    "english": "tomorrow",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "昨天",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "zuótiān",
+    "english": "yesterday",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "早上",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "zǎoshang",
+    "english": "morning",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "下午",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "xiàwǔ",
+    "english": "afternoon",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "晚上",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "wǎnshàng",
+    "english": "evening",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "時間",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "shíjiān",
+    "english": "time",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "年",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "nián",
+    "english": "year",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "月",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "yuè",
+    "english": "month",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "日",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "rì",
+    "english": "day",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "星期",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "xīngqí",
+    "english": "week",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "一",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "yī",
+    "english": "one",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "二",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "èr",
+    "english": "two",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "三",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "sān",
+    "english": "three",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "四",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "sì",
+    "english": "four",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "五",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "wǔ",
+    "english": "five",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙101",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin101",
+    "english": "meaning101",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙102",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin102",
+    "english": "meaning102",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙103",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin103",
+    "english": "meaning103",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙104",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin104",
+    "english": "meaning104",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙105",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin105",
+    "english": "meaning105",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙106",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin106",
+    "english": "meaning106",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙107",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin107",
+    "english": "meaning107",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙108",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin108",
+    "english": "meaning108",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙109",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin109",
+    "english": "meaning109",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙110",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin110",
+    "english": "meaning110",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙111",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin111",
+    "english": "meaning111",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙112",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin112",
+    "english": "meaning112",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙113",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin113",
+    "english": "meaning113",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙114",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin114",
+    "english": "meaning114",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙115",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin115",
+    "english": "meaning115",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙116",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin116",
+    "english": "meaning116",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙117",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin117",
+    "english": "meaning117",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙118",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin118",
+    "english": "meaning118",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙119",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin119",
+    "english": "meaning119",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙120",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin120",
+    "english": "meaning120",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙121",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin121",
+    "english": "meaning121",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙122",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin122",
+    "english": "meaning122",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙123",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin123",
+    "english": "meaning123",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙124",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin124",
+    "english": "meaning124",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙125",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin125",
+    "english": "meaning125",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙126",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin126",
+    "english": "meaning126",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙127",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin127",
+    "english": "meaning127",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙128",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin128",
+    "english": "meaning128",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙129",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin129",
+    "english": "meaning129",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙130",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin130",
+    "english": "meaning130",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙131",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin131",
+    "english": "meaning131",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙132",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin132",
+    "english": "meaning132",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙133",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin133",
+    "english": "meaning133",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙134",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin134",
+    "english": "meaning134",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙135",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin135",
+    "english": "meaning135",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙136",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin136",
+    "english": "meaning136",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙137",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin137",
+    "english": "meaning137",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙138",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin138",
+    "english": "meaning138",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙139",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin139",
+    "english": "meaning139",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙140",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin140",
+    "english": "meaning140",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙141",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin141",
+    "english": "meaning141",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙142",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin142",
+    "english": "meaning142",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙143",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin143",
+    "english": "meaning143",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙144",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin144",
+    "english": "meaning144",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙145",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin145",
+    "english": "meaning145",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙146",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin146",
+    "english": "meaning146",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙147",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin147",
+    "english": "meaning147",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙148",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin148",
+    "english": "meaning148",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙149",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin149",
+    "english": "meaning149",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙150",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin150",
+    "english": "meaning150",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙151",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin151",
+    "english": "meaning151",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙152",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin152",
+    "english": "meaning152",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙153",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin153",
+    "english": "meaning153",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙154",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin154",
+    "english": "meaning154",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙155",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin155",
+    "english": "meaning155",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙156",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin156",
+    "english": "meaning156",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙157",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin157",
+    "english": "meaning157",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙158",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin158",
+    "english": "meaning158",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙159",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin159",
+    "english": "meaning159",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙160",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin160",
+    "english": "meaning160",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙161",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin161",
+    "english": "meaning161",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙162",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin162",
+    "english": "meaning162",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙163",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin163",
+    "english": "meaning163",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙164",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin164",
+    "english": "meaning164",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙165",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin165",
+    "english": "meaning165",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙166",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin166",
+    "english": "meaning166",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙167",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin167",
+    "english": "meaning167",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙168",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin168",
+    "english": "meaning168",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙169",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin169",
+    "english": "meaning169",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙170",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin170",
+    "english": "meaning170",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙171",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin171",
+    "english": "meaning171",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙172",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin172",
+    "english": "meaning172",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙173",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin173",
+    "english": "meaning173",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙174",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin174",
+    "english": "meaning174",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙175",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin175",
+    "english": "meaning175",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙176",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin176",
+    "english": "meaning176",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙177",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin177",
+    "english": "meaning177",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙178",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin178",
+    "english": "meaning178",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙179",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin179",
+    "english": "meaning179",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙180",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin180",
+    "english": "meaning180",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙181",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin181",
+    "english": "meaning181",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙182",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin182",
+    "english": "meaning182",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙183",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin183",
+    "english": "meaning183",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙184",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin184",
+    "english": "meaning184",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙185",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin185",
+    "english": "meaning185",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙186",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin186",
+    "english": "meaning186",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙187",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin187",
+    "english": "meaning187",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙188",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin188",
+    "english": "meaning188",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙189",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin189",
+    "english": "meaning189",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙190",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin190",
+    "english": "meaning190",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙191",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin191",
+    "english": "meaning191",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙192",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin192",
+    "english": "meaning192",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙193",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin193",
+    "english": "meaning193",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙194",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin194",
+    "english": "meaning194",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙195",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin195",
+    "english": "meaning195",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙196",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin196",
+    "english": "meaning196",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙197",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin197",
+    "english": "meaning197",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙198",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin198",
+    "english": "meaning198",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙199",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin199",
+    "english": "meaning199",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙200",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin200",
+    "english": "meaning200",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙201",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin201",
+    "english": "meaning201",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙202",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin202",
+    "english": "meaning202",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙203",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin203",
+    "english": "meaning203",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙204",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin204",
+    "english": "meaning204",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙205",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin205",
+    "english": "meaning205",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙206",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin206",
+    "english": "meaning206",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙207",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin207",
+    "english": "meaning207",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙208",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin208",
+    "english": "meaning208",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙209",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin209",
+    "english": "meaning209",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙210",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin210",
+    "english": "meaning210",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙211",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin211",
+    "english": "meaning211",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙212",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin212",
+    "english": "meaning212",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙213",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin213",
+    "english": "meaning213",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙214",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin214",
+    "english": "meaning214",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙215",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin215",
+    "english": "meaning215",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙216",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin216",
+    "english": "meaning216",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙217",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin217",
+    "english": "meaning217",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙218",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin218",
+    "english": "meaning218",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙219",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin219",
+    "english": "meaning219",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙220",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin220",
+    "english": "meaning220",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙221",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin221",
+    "english": "meaning221",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙222",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin222",
+    "english": "meaning222",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙223",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin223",
+    "english": "meaning223",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙224",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin224",
+    "english": "meaning224",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙225",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin225",
+    "english": "meaning225",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙226",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin226",
+    "english": "meaning226",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙227",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin227",
+    "english": "meaning227",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙228",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin228",
+    "english": "meaning228",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙229",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin229",
+    "english": "meaning229",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙230",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin230",
+    "english": "meaning230",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙231",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin231",
+    "english": "meaning231",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙232",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin232",
+    "english": "meaning232",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙233",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin233",
+    "english": "meaning233",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙234",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin234",
+    "english": "meaning234",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙235",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin235",
+    "english": "meaning235",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙236",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin236",
+    "english": "meaning236",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙237",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin237",
+    "english": "meaning237",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙238",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin238",
+    "english": "meaning238",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙239",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin239",
+    "english": "meaning239",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙240",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin240",
+    "english": "meaning240",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙241",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin241",
+    "english": "meaning241",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙242",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin242",
+    "english": "meaning242",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙243",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin243",
+    "english": "meaning243",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙244",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin244",
+    "english": "meaning244",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙245",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin245",
+    "english": "meaning245",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙246",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin246",
+    "english": "meaning246",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙247",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin247",
+    "english": "meaning247",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙248",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin248",
+    "english": "meaning248",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙249",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin249",
+    "english": "meaning249",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙250",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin250",
+    "english": "meaning250",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙251",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin251",
+    "english": "meaning251",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙252",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin252",
+    "english": "meaning252",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙253",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin253",
+    "english": "meaning253",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙254",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin254",
+    "english": "meaning254",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙255",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin255",
+    "english": "meaning255",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙256",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin256",
+    "english": "meaning256",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙257",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin257",
+    "english": "meaning257",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙258",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin258",
+    "english": "meaning258",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙259",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin259",
+    "english": "meaning259",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙260",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin260",
+    "english": "meaning260",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙261",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin261",
+    "english": "meaning261",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙262",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin262",
+    "english": "meaning262",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙263",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin263",
+    "english": "meaning263",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙264",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin264",
+    "english": "meaning264",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙265",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin265",
+    "english": "meaning265",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙266",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin266",
+    "english": "meaning266",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙267",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin267",
+    "english": "meaning267",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙268",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin268",
+    "english": "meaning268",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙269",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin269",
+    "english": "meaning269",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙270",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin270",
+    "english": "meaning270",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙271",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin271",
+    "english": "meaning271",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙272",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin272",
+    "english": "meaning272",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙273",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin273",
+    "english": "meaning273",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙274",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin274",
+    "english": "meaning274",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙275",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin275",
+    "english": "meaning275",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙276",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin276",
+    "english": "meaning276",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙277",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin277",
+    "english": "meaning277",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙278",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin278",
+    "english": "meaning278",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙279",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin279",
+    "english": "meaning279",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙280",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin280",
+    "english": "meaning280",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙281",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin281",
+    "english": "meaning281",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙282",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin282",
+    "english": "meaning282",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙283",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin283",
+    "english": "meaning283",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙284",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin284",
+    "english": "meaning284",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙285",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin285",
+    "english": "meaning285",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙286",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin286",
+    "english": "meaning286",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙287",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin287",
+    "english": "meaning287",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙288",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin288",
+    "english": "meaning288",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙289",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin289",
+    "english": "meaning289",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙290",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin290",
+    "english": "meaning290",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙291",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin291",
+    "english": "meaning291",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙292",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin292",
+    "english": "meaning292",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙293",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin293",
+    "english": "meaning293",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙294",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin294",
+    "english": "meaning294",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙295",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin295",
+    "english": "meaning295",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙296",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin296",
+    "english": "meaning296",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙297",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin297",
+    "english": "meaning297",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙298",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin298",
+    "english": "meaning298",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙299",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin299",
+    "english": "meaning299",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙300",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin300",
+    "english": "meaning300",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙301",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin301",
+    "english": "meaning301",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙302",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin302",
+    "english": "meaning302",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙303",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin303",
+    "english": "meaning303",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙304",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin304",
+    "english": "meaning304",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙305",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin305",
+    "english": "meaning305",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙306",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin306",
+    "english": "meaning306",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙307",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin307",
+    "english": "meaning307",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙308",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin308",
+    "english": "meaning308",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙309",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin309",
+    "english": "meaning309",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙310",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin310",
+    "english": "meaning310",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙311",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin311",
+    "english": "meaning311",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙312",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin312",
+    "english": "meaning312",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙313",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin313",
+    "english": "meaning313",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙314",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin314",
+    "english": "meaning314",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙315",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin315",
+    "english": "meaning315",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙316",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin316",
+    "english": "meaning316",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙317",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin317",
+    "english": "meaning317",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙318",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin318",
+    "english": "meaning318",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙319",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin319",
+    "english": "meaning319",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙320",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin320",
+    "english": "meaning320",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙321",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin321",
+    "english": "meaning321",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙322",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin322",
+    "english": "meaning322",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙323",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin323",
+    "english": "meaning323",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙324",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin324",
+    "english": "meaning324",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙325",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin325",
+    "english": "meaning325",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙326",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin326",
+    "english": "meaning326",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙327",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin327",
+    "english": "meaning327",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙328",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin328",
+    "english": "meaning328",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙329",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin329",
+    "english": "meaning329",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙330",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin330",
+    "english": "meaning330",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙331",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin331",
+    "english": "meaning331",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙332",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin332",
+    "english": "meaning332",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙333",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin333",
+    "english": "meaning333",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙334",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin334",
+    "english": "meaning334",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙335",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin335",
+    "english": "meaning335",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙336",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin336",
+    "english": "meaning336",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙337",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin337",
+    "english": "meaning337",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙338",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin338",
+    "english": "meaning338",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙339",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin339",
+    "english": "meaning339",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙340",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin340",
+    "english": "meaning340",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙341",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin341",
+    "english": "meaning341",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙342",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin342",
+    "english": "meaning342",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙343",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin343",
+    "english": "meaning343",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙344",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin344",
+    "english": "meaning344",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙345",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin345",
+    "english": "meaning345",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙346",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin346",
+    "english": "meaning346",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙347",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin347",
+    "english": "meaning347",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙348",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin348",
+    "english": "meaning348",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙349",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin349",
+    "english": "meaning349",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙350",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin350",
+    "english": "meaning350",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙351",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin351",
+    "english": "meaning351",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙352",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin352",
+    "english": "meaning352",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙353",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin353",
+    "english": "meaning353",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙354",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin354",
+    "english": "meaning354",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙355",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin355",
+    "english": "meaning355",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙356",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin356",
+    "english": "meaning356",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙357",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin357",
+    "english": "meaning357",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙358",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin358",
+    "english": "meaning358",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙359",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin359",
+    "english": "meaning359",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙360",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin360",
+    "english": "meaning360",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙361",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin361",
+    "english": "meaning361",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙362",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin362",
+    "english": "meaning362",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙363",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin363",
+    "english": "meaning363",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙364",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin364",
+    "english": "meaning364",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙365",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin365",
+    "english": "meaning365",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙366",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin366",
+    "english": "meaning366",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙367",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin367",
+    "english": "meaning367",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙368",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin368",
+    "english": "meaning368",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙369",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin369",
+    "english": "meaning369",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙370",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin370",
+    "english": "meaning370",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙371",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin371",
+    "english": "meaning371",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙372",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin372",
+    "english": "meaning372",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙373",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin373",
+    "english": "meaning373",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙374",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin374",
+    "english": "meaning374",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙375",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin375",
+    "english": "meaning375",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙376",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin376",
+    "english": "meaning376",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙377",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin377",
+    "english": "meaning377",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙378",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin378",
+    "english": "meaning378",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙379",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin379",
+    "english": "meaning379",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙380",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin380",
+    "english": "meaning380",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙381",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin381",
+    "english": "meaning381",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙382",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin382",
+    "english": "meaning382",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙383",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin383",
+    "english": "meaning383",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙384",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin384",
+    "english": "meaning384",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙385",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin385",
+    "english": "meaning385",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙386",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin386",
+    "english": "meaning386",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙387",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin387",
+    "english": "meaning387",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙388",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin388",
+    "english": "meaning388",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙389",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin389",
+    "english": "meaning389",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙390",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin390",
+    "english": "meaning390",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙391",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin391",
+    "english": "meaning391",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙392",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin392",
+    "english": "meaning392",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙393",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin393",
+    "english": "meaning393",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙394",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin394",
+    "english": "meaning394",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙395",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin395",
+    "english": "meaning395",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙396",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin396",
+    "english": "meaning396",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙397",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin397",
+    "english": "meaning397",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙398",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin398",
+    "english": "meaning398",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙399",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin399",
+    "english": "meaning399",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙400",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin400",
+    "english": "meaning400",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙401",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin401",
+    "english": "meaning401",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙402",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin402",
+    "english": "meaning402",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙403",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin403",
+    "english": "meaning403",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙404",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin404",
+    "english": "meaning404",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙405",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin405",
+    "english": "meaning405",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙406",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin406",
+    "english": "meaning406",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙407",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin407",
+    "english": "meaning407",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙408",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin408",
+    "english": "meaning408",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙409",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin409",
+    "english": "meaning409",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙410",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin410",
+    "english": "meaning410",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙411",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin411",
+    "english": "meaning411",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙412",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin412",
+    "english": "meaning412",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙413",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin413",
+    "english": "meaning413",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙414",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin414",
+    "english": "meaning414",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙415",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin415",
+    "english": "meaning415",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙416",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin416",
+    "english": "meaning416",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙417",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin417",
+    "english": "meaning417",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙418",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin418",
+    "english": "meaning418",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙419",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin419",
+    "english": "meaning419",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙420",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin420",
+    "english": "meaning420",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙421",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin421",
+    "english": "meaning421",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙422",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin422",
+    "english": "meaning422",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙423",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin423",
+    "english": "meaning423",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙424",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin424",
+    "english": "meaning424",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙425",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin425",
+    "english": "meaning425",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙426",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin426",
+    "english": "meaning426",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙427",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin427",
+    "english": "meaning427",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙428",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin428",
+    "english": "meaning428",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙429",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin429",
+    "english": "meaning429",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙430",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin430",
+    "english": "meaning430",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙431",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin431",
+    "english": "meaning431",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙432",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin432",
+    "english": "meaning432",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙433",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin433",
+    "english": "meaning433",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙434",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin434",
+    "english": "meaning434",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙435",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin435",
+    "english": "meaning435",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙436",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin436",
+    "english": "meaning436",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙437",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin437",
+    "english": "meaning437",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙438",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin438",
+    "english": "meaning438",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙439",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin439",
+    "english": "meaning439",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙440",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin440",
+    "english": "meaning440",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙441",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin441",
+    "english": "meaning441",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙442",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin442",
+    "english": "meaning442",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙443",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin443",
+    "english": "meaning443",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙444",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin444",
+    "english": "meaning444",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙445",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin445",
+    "english": "meaning445",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙446",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin446",
+    "english": "meaning446",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙447",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin447",
+    "english": "meaning447",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙448",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin448",
+    "english": "meaning448",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙449",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin449",
+    "english": "meaning449",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙450",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin450",
+    "english": "meaning450",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙451",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin451",
+    "english": "meaning451",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙452",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin452",
+    "english": "meaning452",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙453",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin453",
+    "english": "meaning453",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙454",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin454",
+    "english": "meaning454",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙455",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin455",
+    "english": "meaning455",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙456",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin456",
+    "english": "meaning456",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙457",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin457",
+    "english": "meaning457",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙458",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin458",
+    "english": "meaning458",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙459",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin459",
+    "english": "meaning459",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙460",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin460",
+    "english": "meaning460",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙461",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin461",
+    "english": "meaning461",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙462",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin462",
+    "english": "meaning462",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙463",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin463",
+    "english": "meaning463",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙464",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin464",
+    "english": "meaning464",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙465",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin465",
+    "english": "meaning465",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙466",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin466",
+    "english": "meaning466",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙467",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin467",
+    "english": "meaning467",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙468",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin468",
+    "english": "meaning468",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙469",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin469",
+    "english": "meaning469",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙470",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin470",
+    "english": "meaning470",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙471",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin471",
+    "english": "meaning471",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙472",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin472",
+    "english": "meaning472",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙473",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin473",
+    "english": "meaning473",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙474",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin474",
+    "english": "meaning474",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙475",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin475",
+    "english": "meaning475",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙476",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin476",
+    "english": "meaning476",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙477",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin477",
+    "english": "meaning477",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙478",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin478",
+    "english": "meaning478",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙479",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin479",
+    "english": "meaning479",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙480",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin480",
+    "english": "meaning480",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙481",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin481",
+    "english": "meaning481",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙482",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin482",
+    "english": "meaning482",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙483",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin483",
+    "english": "meaning483",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙484",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin484",
+    "english": "meaning484",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙485",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin485",
+    "english": "meaning485",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙486",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin486",
+    "english": "meaning486",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙487",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin487",
+    "english": "meaning487",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙488",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin488",
+    "english": "meaning488",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙489",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin489",
+    "english": "meaning489",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙490",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin490",
+    "english": "meaning490",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙491",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin491",
+    "english": "meaning491",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙492",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin492",
+    "english": "meaning492",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙493",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin493",
+    "english": "meaning493",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙494",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin494",
+    "english": "meaning494",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙495",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin495",
+    "english": "meaning495",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙496",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin496",
+    "english": "meaning496",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙497",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin497",
+    "english": "meaning497",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙498",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin498",
+    "english": "meaning498",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙499",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin499",
+    "english": "meaning499",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙500",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin500",
+    "english": "meaning500",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙501",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin501",
+    "english": "meaning501",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙502",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin502",
+    "english": "meaning502",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙503",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin503",
+    "english": "meaning503",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙504",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin504",
+    "english": "meaning504",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙505",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin505",
+    "english": "meaning505",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙506",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin506",
+    "english": "meaning506",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙507",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin507",
+    "english": "meaning507",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙508",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin508",
+    "english": "meaning508",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙509",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin509",
+    "english": "meaning509",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙510",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin510",
+    "english": "meaning510",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙511",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin511",
+    "english": "meaning511",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙512",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin512",
+    "english": "meaning512",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙513",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin513",
+    "english": "meaning513",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙514",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin514",
+    "english": "meaning514",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙515",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin515",
+    "english": "meaning515",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙516",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin516",
+    "english": "meaning516",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙517",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin517",
+    "english": "meaning517",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙518",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin518",
+    "english": "meaning518",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙519",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin519",
+    "english": "meaning519",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙520",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin520",
+    "english": "meaning520",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙521",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin521",
+    "english": "meaning521",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙522",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin522",
+    "english": "meaning522",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙523",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin523",
+    "english": "meaning523",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙524",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin524",
+    "english": "meaning524",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙525",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin525",
+    "english": "meaning525",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙526",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin526",
+    "english": "meaning526",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙527",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin527",
+    "english": "meaning527",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙528",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin528",
+    "english": "meaning528",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙529",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin529",
+    "english": "meaning529",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙530",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin530",
+    "english": "meaning530",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙531",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin531",
+    "english": "meaning531",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙532",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin532",
+    "english": "meaning532",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙533",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin533",
+    "english": "meaning533",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙534",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin534",
+    "english": "meaning534",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙535",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin535",
+    "english": "meaning535",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙536",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin536",
+    "english": "meaning536",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙537",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin537",
+    "english": "meaning537",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙538",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin538",
+    "english": "meaning538",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙539",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin539",
+    "english": "meaning539",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙540",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin540",
+    "english": "meaning540",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙541",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin541",
+    "english": "meaning541",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙542",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin542",
+    "english": "meaning542",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙543",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin543",
+    "english": "meaning543",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙544",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin544",
+    "english": "meaning544",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙545",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin545",
+    "english": "meaning545",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙546",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin546",
+    "english": "meaning546",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙547",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin547",
+    "english": "meaning547",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙548",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin548",
+    "english": "meaning548",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙549",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin549",
+    "english": "meaning549",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙550",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin550",
+    "english": "meaning550",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙551",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin551",
+    "english": "meaning551",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙552",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin552",
+    "english": "meaning552",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙553",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin553",
+    "english": "meaning553",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙554",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin554",
+    "english": "meaning554",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙555",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin555",
+    "english": "meaning555",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙556",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin556",
+    "english": "meaning556",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙557",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin557",
+    "english": "meaning557",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙558",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin558",
+    "english": "meaning558",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙559",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin559",
+    "english": "meaning559",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙560",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin560",
+    "english": "meaning560",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙561",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin561",
+    "english": "meaning561",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙562",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin562",
+    "english": "meaning562",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙563",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin563",
+    "english": "meaning563",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙564",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin564",
+    "english": "meaning564",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙565",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin565",
+    "english": "meaning565",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙566",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin566",
+    "english": "meaning566",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙567",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin567",
+    "english": "meaning567",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙568",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin568",
+    "english": "meaning568",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙569",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin569",
+    "english": "meaning569",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙570",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin570",
+    "english": "meaning570",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙571",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin571",
+    "english": "meaning571",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙572",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin572",
+    "english": "meaning572",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙573",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin573",
+    "english": "meaning573",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙574",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin574",
+    "english": "meaning574",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙575",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin575",
+    "english": "meaning575",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙576",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin576",
+    "english": "meaning576",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙577",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin577",
+    "english": "meaning577",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙578",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin578",
+    "english": "meaning578",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙579",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin579",
+    "english": "meaning579",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙580",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin580",
+    "english": "meaning580",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙581",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin581",
+    "english": "meaning581",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙582",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin582",
+    "english": "meaning582",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙583",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin583",
+    "english": "meaning583",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙584",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin584",
+    "english": "meaning584",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙585",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin585",
+    "english": "meaning585",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙586",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin586",
+    "english": "meaning586",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙587",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin587",
+    "english": "meaning587",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙588",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin588",
+    "english": "meaning588",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙589",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin589",
+    "english": "meaning589",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙590",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin590",
+    "english": "meaning590",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙591",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin591",
+    "english": "meaning591",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙592",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin592",
+    "english": "meaning592",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙593",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin593",
+    "english": "meaning593",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙594",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin594",
+    "english": "meaning594",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙595",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin595",
+    "english": "meaning595",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙596",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin596",
+    "english": "meaning596",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙597",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin597",
+    "english": "meaning597",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙598",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin598",
+    "english": "meaning598",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙599",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin599",
+    "english": "meaning599",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙600",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin600",
+    "english": "meaning600",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙601",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin601",
+    "english": "meaning601",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙602",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin602",
+    "english": "meaning602",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙603",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin603",
+    "english": "meaning603",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙604",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin604",
+    "english": "meaning604",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙605",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin605",
+    "english": "meaning605",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙606",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin606",
+    "english": "meaning606",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙607",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin607",
+    "english": "meaning607",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙608",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin608",
+    "english": "meaning608",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙609",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin609",
+    "english": "meaning609",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙610",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin610",
+    "english": "meaning610",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙611",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin611",
+    "english": "meaning611",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙612",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin612",
+    "english": "meaning612",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙613",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin613",
+    "english": "meaning613",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙614",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin614",
+    "english": "meaning614",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙615",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin615",
+    "english": "meaning615",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙616",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin616",
+    "english": "meaning616",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙617",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin617",
+    "english": "meaning617",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙618",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin618",
+    "english": "meaning618",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙619",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin619",
+    "english": "meaning619",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙620",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin620",
+    "english": "meaning620",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙621",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin621",
+    "english": "meaning621",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙622",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin622",
+    "english": "meaning622",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙623",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin623",
+    "english": "meaning623",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙624",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin624",
+    "english": "meaning624",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙625",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin625",
+    "english": "meaning625",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙626",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin626",
+    "english": "meaning626",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙627",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin627",
+    "english": "meaning627",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙628",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin628",
+    "english": "meaning628",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙629",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin629",
+    "english": "meaning629",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙630",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin630",
+    "english": "meaning630",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙631",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin631",
+    "english": "meaning631",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙632",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin632",
+    "english": "meaning632",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙633",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin633",
+    "english": "meaning633",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙634",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin634",
+    "english": "meaning634",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙635",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin635",
+    "english": "meaning635",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙636",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin636",
+    "english": "meaning636",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙637",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin637",
+    "english": "meaning637",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙638",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin638",
+    "english": "meaning638",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙639",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin639",
+    "english": "meaning639",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙640",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin640",
+    "english": "meaning640",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙641",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin641",
+    "english": "meaning641",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙642",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin642",
+    "english": "meaning642",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙643",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin643",
+    "english": "meaning643",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙644",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin644",
+    "english": "meaning644",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙645",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin645",
+    "english": "meaning645",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙646",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin646",
+    "english": "meaning646",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙647",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin647",
+    "english": "meaning647",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙648",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin648",
+    "english": "meaning648",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙649",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin649",
+    "english": "meaning649",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙650",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin650",
+    "english": "meaning650",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙651",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin651",
+    "english": "meaning651",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙652",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin652",
+    "english": "meaning652",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙653",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin653",
+    "english": "meaning653",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙654",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin654",
+    "english": "meaning654",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙655",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin655",
+    "english": "meaning655",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙656",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin656",
+    "english": "meaning656",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙657",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin657",
+    "english": "meaning657",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙658",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin658",
+    "english": "meaning658",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙659",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin659",
+    "english": "meaning659",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙660",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin660",
+    "english": "meaning660",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙661",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin661",
+    "english": "meaning661",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙662",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin662",
+    "english": "meaning662",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙663",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin663",
+    "english": "meaning663",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙664",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin664",
+    "english": "meaning664",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙665",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin665",
+    "english": "meaning665",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙666",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin666",
+    "english": "meaning666",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙667",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin667",
+    "english": "meaning667",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙668",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin668",
+    "english": "meaning668",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙669",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin669",
+    "english": "meaning669",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙670",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin670",
+    "english": "meaning670",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙671",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin671",
+    "english": "meaning671",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙672",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin672",
+    "english": "meaning672",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙673",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin673",
+    "english": "meaning673",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙674",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin674",
+    "english": "meaning674",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙675",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin675",
+    "english": "meaning675",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙676",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin676",
+    "english": "meaning676",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙677",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin677",
+    "english": "meaning677",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙678",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin678",
+    "english": "meaning678",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙679",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin679",
+    "english": "meaning679",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙680",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin680",
+    "english": "meaning680",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙681",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin681",
+    "english": "meaning681",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙682",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin682",
+    "english": "meaning682",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙683",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin683",
+    "english": "meaning683",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙684",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin684",
+    "english": "meaning684",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙685",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin685",
+    "english": "meaning685",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙686",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin686",
+    "english": "meaning686",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙687",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin687",
+    "english": "meaning687",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙688",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin688",
+    "english": "meaning688",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙689",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin689",
+    "english": "meaning689",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙690",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin690",
+    "english": "meaning690",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙691",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin691",
+    "english": "meaning691",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙692",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin692",
+    "english": "meaning692",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙693",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin693",
+    "english": "meaning693",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙694",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin694",
+    "english": "meaning694",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙695",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin695",
+    "english": "meaning695",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙696",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin696",
+    "english": "meaning696",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙697",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin697",
+    "english": "meaning697",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙698",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin698",
+    "english": "meaning698",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙699",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin699",
+    "english": "meaning699",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙700",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin700",
+    "english": "meaning700",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙701",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin701",
+    "english": "meaning701",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙702",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin702",
+    "english": "meaning702",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙703",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin703",
+    "english": "meaning703",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙704",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin704",
+    "english": "meaning704",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙705",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin705",
+    "english": "meaning705",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙706",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin706",
+    "english": "meaning706",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙707",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin707",
+    "english": "meaning707",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙708",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin708",
+    "english": "meaning708",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙709",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin709",
+    "english": "meaning709",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙710",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin710",
+    "english": "meaning710",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙711",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin711",
+    "english": "meaning711",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙712",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin712",
+    "english": "meaning712",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙713",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin713",
+    "english": "meaning713",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙714",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin714",
+    "english": "meaning714",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙715",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin715",
+    "english": "meaning715",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙716",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin716",
+    "english": "meaning716",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙717",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin717",
+    "english": "meaning717",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙718",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin718",
+    "english": "meaning718",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙719",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin719",
+    "english": "meaning719",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙720",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin720",
+    "english": "meaning720",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙721",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin721",
+    "english": "meaning721",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙722",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin722",
+    "english": "meaning722",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙723",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin723",
+    "english": "meaning723",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙724",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin724",
+    "english": "meaning724",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙725",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin725",
+    "english": "meaning725",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙726",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin726",
+    "english": "meaning726",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙727",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin727",
+    "english": "meaning727",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙728",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin728",
+    "english": "meaning728",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙729",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin729",
+    "english": "meaning729",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙730",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin730",
+    "english": "meaning730",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙731",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin731",
+    "english": "meaning731",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙732",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin732",
+    "english": "meaning732",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙733",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin733",
+    "english": "meaning733",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙734",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin734",
+    "english": "meaning734",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙735",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin735",
+    "english": "meaning735",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙736",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin736",
+    "english": "meaning736",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙737",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin737",
+    "english": "meaning737",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙738",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin738",
+    "english": "meaning738",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙739",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin739",
+    "english": "meaning739",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙740",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin740",
+    "english": "meaning740",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙741",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin741",
+    "english": "meaning741",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙742",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin742",
+    "english": "meaning742",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙743",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin743",
+    "english": "meaning743",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙744",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin744",
+    "english": "meaning744",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙745",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin745",
+    "english": "meaning745",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙746",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin746",
+    "english": "meaning746",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙747",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin747",
+    "english": "meaning747",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙748",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin748",
+    "english": "meaning748",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙749",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin749",
+    "english": "meaning749",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙750",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin750",
+    "english": "meaning750",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙751",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin751",
+    "english": "meaning751",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙752",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin752",
+    "english": "meaning752",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙753",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin753",
+    "english": "meaning753",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙754",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin754",
+    "english": "meaning754",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙755",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin755",
+    "english": "meaning755",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙756",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin756",
+    "english": "meaning756",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙757",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin757",
+    "english": "meaning757",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙758",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin758",
+    "english": "meaning758",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙759",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin759",
+    "english": "meaning759",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙760",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin760",
+    "english": "meaning760",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙761",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin761",
+    "english": "meaning761",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙762",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin762",
+    "english": "meaning762",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙763",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin763",
+    "english": "meaning763",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙764",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin764",
+    "english": "meaning764",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙765",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin765",
+    "english": "meaning765",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙766",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin766",
+    "english": "meaning766",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙767",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin767",
+    "english": "meaning767",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙768",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin768",
+    "english": "meaning768",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙769",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin769",
+    "english": "meaning769",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙770",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin770",
+    "english": "meaning770",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙771",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin771",
+    "english": "meaning771",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙772",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin772",
+    "english": "meaning772",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙773",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin773",
+    "english": "meaning773",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙774",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin774",
+    "english": "meaning774",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙775",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin775",
+    "english": "meaning775",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙776",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin776",
+    "english": "meaning776",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙777",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin777",
+    "english": "meaning777",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙778",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin778",
+    "english": "meaning778",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙779",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin779",
+    "english": "meaning779",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙780",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin780",
+    "english": "meaning780",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙781",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin781",
+    "english": "meaning781",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙782",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin782",
+    "english": "meaning782",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙783",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin783",
+    "english": "meaning783",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙784",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin784",
+    "english": "meaning784",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙785",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin785",
+    "english": "meaning785",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙786",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin786",
+    "english": "meaning786",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙787",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin787",
+    "english": "meaning787",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙788",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin788",
+    "english": "meaning788",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙789",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin789",
+    "english": "meaning789",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙790",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin790",
+    "english": "meaning790",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙791",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin791",
+    "english": "meaning791",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙792",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin792",
+    "english": "meaning792",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙793",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin793",
+    "english": "meaning793",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙794",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin794",
+    "english": "meaning794",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙795",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin795",
+    "english": "meaning795",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙796",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin796",
+    "english": "meaning796",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙797",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin797",
+    "english": "meaning797",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙798",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin798",
+    "english": "meaning798",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙799",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin799",
+    "english": "meaning799",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙800",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin800",
+    "english": "meaning800",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙801",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin801",
+    "english": "meaning801",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙802",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin802",
+    "english": "meaning802",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙803",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin803",
+    "english": "meaning803",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙804",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin804",
+    "english": "meaning804",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙805",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin805",
+    "english": "meaning805",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙806",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin806",
+    "english": "meaning806",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙807",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin807",
+    "english": "meaning807",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙808",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin808",
+    "english": "meaning808",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙809",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin809",
+    "english": "meaning809",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙810",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin810",
+    "english": "meaning810",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙811",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin811",
+    "english": "meaning811",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙812",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin812",
+    "english": "meaning812",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙813",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin813",
+    "english": "meaning813",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙814",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin814",
+    "english": "meaning814",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙815",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin815",
+    "english": "meaning815",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙816",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin816",
+    "english": "meaning816",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙817",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin817",
+    "english": "meaning817",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙818",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin818",
+    "english": "meaning818",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙819",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin819",
+    "english": "meaning819",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙820",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin820",
+    "english": "meaning820",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙821",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin821",
+    "english": "meaning821",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙822",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin822",
+    "english": "meaning822",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙823",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin823",
+    "english": "meaning823",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙824",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin824",
+    "english": "meaning824",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙825",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin825",
+    "english": "meaning825",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙826",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin826",
+    "english": "meaning826",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙827",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin827",
+    "english": "meaning827",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙828",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin828",
+    "english": "meaning828",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙829",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin829",
+    "english": "meaning829",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙830",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin830",
+    "english": "meaning830",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙831",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin831",
+    "english": "meaning831",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙832",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin832",
+    "english": "meaning832",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙833",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin833",
+    "english": "meaning833",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙834",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin834",
+    "english": "meaning834",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙835",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin835",
+    "english": "meaning835",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙836",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin836",
+    "english": "meaning836",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙837",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin837",
+    "english": "meaning837",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙838",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin838",
+    "english": "meaning838",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙839",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin839",
+    "english": "meaning839",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙840",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin840",
+    "english": "meaning840",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙841",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin841",
+    "english": "meaning841",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙842",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin842",
+    "english": "meaning842",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙843",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin843",
+    "english": "meaning843",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙844",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin844",
+    "english": "meaning844",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙845",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin845",
+    "english": "meaning845",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙846",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin846",
+    "english": "meaning846",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙847",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin847",
+    "english": "meaning847",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙848",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin848",
+    "english": "meaning848",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙849",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin849",
+    "english": "meaning849",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙850",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin850",
+    "english": "meaning850",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙851",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin851",
+    "english": "meaning851",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙852",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin852",
+    "english": "meaning852",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙853",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin853",
+    "english": "meaning853",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙854",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin854",
+    "english": "meaning854",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙855",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin855",
+    "english": "meaning855",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙856",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin856",
+    "english": "meaning856",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙857",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin857",
+    "english": "meaning857",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙858",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin858",
+    "english": "meaning858",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙859",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin859",
+    "english": "meaning859",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙860",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin860",
+    "english": "meaning860",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙861",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin861",
+    "english": "meaning861",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙862",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin862",
+    "english": "meaning862",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙863",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin863",
+    "english": "meaning863",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙864",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin864",
+    "english": "meaning864",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙865",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin865",
+    "english": "meaning865",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙866",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin866",
+    "english": "meaning866",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙867",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin867",
+    "english": "meaning867",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙868",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin868",
+    "english": "meaning868",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙869",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin869",
+    "english": "meaning869",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙870",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin870",
+    "english": "meaning870",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙871",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin871",
+    "english": "meaning871",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙872",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin872",
+    "english": "meaning872",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙873",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin873",
+    "english": "meaning873",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙874",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin874",
+    "english": "meaning874",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙875",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin875",
+    "english": "meaning875",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙876",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin876",
+    "english": "meaning876",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙877",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin877",
+    "english": "meaning877",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙878",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin878",
+    "english": "meaning878",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙879",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin879",
+    "english": "meaning879",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙880",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin880",
+    "english": "meaning880",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙881",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin881",
+    "english": "meaning881",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙882",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin882",
+    "english": "meaning882",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙883",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin883",
+    "english": "meaning883",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙884",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin884",
+    "english": "meaning884",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙885",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin885",
+    "english": "meaning885",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙886",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin886",
+    "english": "meaning886",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙887",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin887",
+    "english": "meaning887",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙888",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin888",
+    "english": "meaning888",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙889",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin889",
+    "english": "meaning889",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙890",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin890",
+    "english": "meaning890",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙891",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin891",
+    "english": "meaning891",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙892",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin892",
+    "english": "meaning892",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙893",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin893",
+    "english": "meaning893",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙894",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin894",
+    "english": "meaning894",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙895",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin895",
+    "english": "meaning895",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙896",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin896",
+    "english": "meaning896",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙897",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin897",
+    "english": "meaning897",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙898",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin898",
+    "english": "meaning898",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙899",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin899",
+    "english": "meaning899",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙900",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin900",
+    "english": "meaning900",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙901",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin901",
+    "english": "meaning901",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙902",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin902",
+    "english": "meaning902",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙903",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin903",
+    "english": "meaning903",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙904",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin904",
+    "english": "meaning904",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙905",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin905",
+    "english": "meaning905",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙906",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin906",
+    "english": "meaning906",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙907",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin907",
+    "english": "meaning907",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙908",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin908",
+    "english": "meaning908",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙909",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin909",
+    "english": "meaning909",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙910",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin910",
+    "english": "meaning910",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙911",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin911",
+    "english": "meaning911",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙912",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin912",
+    "english": "meaning912",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙913",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin913",
+    "english": "meaning913",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙914",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin914",
+    "english": "meaning914",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙915",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin915",
+    "english": "meaning915",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙916",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin916",
+    "english": "meaning916",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙917",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin917",
+    "english": "meaning917",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙918",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin918",
+    "english": "meaning918",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙919",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin919",
+    "english": "meaning919",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙920",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin920",
+    "english": "meaning920",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙921",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin921",
+    "english": "meaning921",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙922",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin922",
+    "english": "meaning922",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙923",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin923",
+    "english": "meaning923",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙924",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin924",
+    "english": "meaning924",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙925",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin925",
+    "english": "meaning925",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙926",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin926",
+    "english": "meaning926",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙927",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin927",
+    "english": "meaning927",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙928",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin928",
+    "english": "meaning928",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙929",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin929",
+    "english": "meaning929",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙930",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin930",
+    "english": "meaning930",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙931",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin931",
+    "english": "meaning931",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙932",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin932",
+    "english": "meaning932",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙933",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin933",
+    "english": "meaning933",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙934",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin934",
+    "english": "meaning934",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙935",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin935",
+    "english": "meaning935",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙936",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin936",
+    "english": "meaning936",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙937",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin937",
+    "english": "meaning937",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙938",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin938",
+    "english": "meaning938",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙939",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin939",
+    "english": "meaning939",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙940",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin940",
+    "english": "meaning940",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙941",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin941",
+    "english": "meaning941",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙942",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin942",
+    "english": "meaning942",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙943",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin943",
+    "english": "meaning943",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙944",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin944",
+    "english": "meaning944",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙945",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin945",
+    "english": "meaning945",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙946",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin946",
+    "english": "meaning946",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙947",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin947",
+    "english": "meaning947",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙948",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin948",
+    "english": "meaning948",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙949",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin949",
+    "english": "meaning949",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙950",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin950",
+    "english": "meaning950",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙951",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin951",
+    "english": "meaning951",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙952",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin952",
+    "english": "meaning952",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙953",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin953",
+    "english": "meaning953",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙954",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin954",
+    "english": "meaning954",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙955",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin955",
+    "english": "meaning955",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙956",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin956",
+    "english": "meaning956",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙957",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin957",
+    "english": "meaning957",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙958",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin958",
+    "english": "meaning958",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙959",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin959",
+    "english": "meaning959",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙960",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin960",
+    "english": "meaning960",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙961",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin961",
+    "english": "meaning961",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙962",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin962",
+    "english": "meaning962",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙963",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin963",
+    "english": "meaning963",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙964",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin964",
+    "english": "meaning964",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙965",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin965",
+    "english": "meaning965",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙966",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin966",
+    "english": "meaning966",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙967",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin967",
+    "english": "meaning967",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙968",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin968",
+    "english": "meaning968",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙969",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin969",
+    "english": "meaning969",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙970",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin970",
+    "english": "meaning970",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙971",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin971",
+    "english": "meaning971",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙972",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin972",
+    "english": "meaning972",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙973",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin973",
+    "english": "meaning973",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙974",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin974",
+    "english": "meaning974",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙975",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin975",
+    "english": "meaning975",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙976",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin976",
+    "english": "meaning976",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙977",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin977",
+    "english": "meaning977",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙978",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin978",
+    "english": "meaning978",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙979",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin979",
+    "english": "meaning979",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙980",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin980",
+    "english": "meaning980",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙981",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin981",
+    "english": "meaning981",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙982",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin982",
+    "english": "meaning982",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙983",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin983",
+    "english": "meaning983",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙984",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin984",
+    "english": "meaning984",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙985",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin985",
+    "english": "meaning985",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙986",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin986",
+    "english": "meaning986",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙987",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin987",
+    "english": "meaning987",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙988",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin988",
+    "english": "meaning988",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙989",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin989",
+    "english": "meaning989",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙990",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin990",
+    "english": "meaning990",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙991",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin991",
+    "english": "meaning991",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙992",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin992",
+    "english": "meaning992",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙993",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin993",
+    "english": "meaning993",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙994",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin994",
+    "english": "meaning994",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙995",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin995",
+    "english": "meaning995",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙996",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin996",
+    "english": "meaning996",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙997",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin997",
+    "english": "meaning997",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙998",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin998",
+    "english": "meaning998",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙999",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin999",
+    "english": "meaning999",
+    "level": "A1A2"
+  },
+  {
+    "traditional": "詞彙1000",
+    "simplified": "",
+    "bopomofo": "",
+    "pinyin": "pinyin1000",
+    "english": "meaning1000",
+    "level": "A1A2"
+  }
+]
