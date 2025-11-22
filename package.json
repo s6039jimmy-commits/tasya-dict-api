@@ -1,4 +1,5 @@
 {
     "name": "tasya-dict-api",
-    "private": true
+    "private": true,
+    "type": "module"
 }
