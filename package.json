@@ -1,7 +1,7 @@
 {
     "name": "tasya-dict-api",
-    "version": "1.0.0",
     "private": true,
-    "type": "module",
-    "dependencies": {}
+    "scripts": {
+        "start": "node api/words.js"
+    }
 }
