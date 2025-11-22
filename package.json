@@ -1,7 +1,4 @@
 {
     "name": "tasya-dict-api",
-    "private": true,
-    "scripts": {
-        "start": "node api/words.js"
-    }
+    "private": true
 }
