@@ -8,22 +8,22 @@ export default async function handler(req, res) {
     }
 
     try {
-        // 教育部萌典官方 API
-        const url = `https://www.moedict.tw/raw/${encodeURI(word)}`;
+        // 教育部萌典 API（官方 RAW JSON）
+        const url = `https://www.moedict.tw/raw/${encodeURIComponent(word)}`;
 
         const response = await fetch(url);
 
-        // 404 或查不到資料
+        // 萌典回 404 = 查無資料
         if (!response.ok) {
             return res.status(404).json({ error: "查無資料" });
         }
 
-        // 取得 JSON 回傳
         const data = await response.json();
 
+        // 回傳成功
         return res.status(200).json({
             query: word,
-            result: data
+            result: data,
         });
 
     } catch (err) {
