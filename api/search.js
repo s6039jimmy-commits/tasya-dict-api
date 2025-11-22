@@ -6,7 +6,6 @@ export default async function handler(req, res) {
     }
 
     try {
-        // 教育部萌典 API
         const url = `https://www.moedict.tw/raw/${encodeURI(word)}`;
 
         const response = await fetch(url);
@@ -21,7 +20,6 @@ export default async function handler(req, res) {
             query: word,
             result: data,
         });
-
     } catch (err) {
         return res.status(500).json({
             error: "伺服器錯誤",

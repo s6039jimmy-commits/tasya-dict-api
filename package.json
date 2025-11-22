@@ -1,5 +1,8 @@
 {
     "name": "tasya-dict-api",
+    "type": "module",
     "private": true,
-    "type": "module"
+    "scripts": {
+        "start": "node api/index.js"
+    }
 }
