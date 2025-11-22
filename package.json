@@ -4,5 +4,8 @@
     "private": true,
     "scripts": {
         "start": "node api/index.js"
+    },
+    "dependencies": {
+        "opencc-js": "^1.0.5"
     }
 }
